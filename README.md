@@ -2,7 +2,7 @@
 ### _Version 1.0_ 
 ### _24/12/22_ 
 
-##Contributers:
+## Contributers:
 Tanner Farkas,
 Ryland Landon
 
